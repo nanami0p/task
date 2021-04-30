@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "332259522483",
+    "project_id": "taskmanage-47bbe",
+    "storage_bucket": "taskmanage-47bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332259522483:android:ae82767f72f9704e3e3dc6",
+        "android_client_info": {
+          "package_name": "com.veldom.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332259522483-9ksps2hc0p71mvr9onm1hr4m7gejkvud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veldom.task",
+            "certificate_hash": "1e41fac0f4ee755a5cd59d3663a5720ee582eca5"
+          }
+        },
+        {
+          "client_id": "332259522483-s392no40gfs7fktd86navkd2k2b5c0u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPi9zjR_5qnna2eKL0kzIxWR12PlVing"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332259522483-s392no40gfs7fktd86navkd2k2b5c0u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332259522483-gdb60go9ljdstqna40gmsp7cci104dcf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.veldom.taskmanage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332259522483:android:bb425dc63bffe7f63e3dc6",
+        "android_client_info": {
+          "package_name": "com.veldom.taskmanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332259522483-r6vr8q535q18napmcg7guukc67jf5cal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veldom.taskmanage",
+            "certificate_hash": "1e41fac0f4ee755a5cd59d3663a5720ee582eca5"
+          }
+        },
+        {
+          "client_id": "332259522483-s392no40gfs7fktd86navkd2k2b5c0u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPi9zjR_5qnna2eKL0kzIxWR12PlVing"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332259522483-s392no40gfs7fktd86navkd2k2b5c0u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332259522483-gdb60go9ljdstqna40gmsp7cci104dcf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.veldom.taskmanage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
